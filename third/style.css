@@ -1,0 +1,42 @@
+.body{
+    background: darkgray;
+}
+.section1 {
+    height:2vh;
+    background:darkgray;
+}
+.section2 {
+    height:25vh;
+    background: white;
+    margin:0px;
+    font-size: 25px;
+    padding-top: 5vh;
+    padding-left: 5vh;
+}
+.section3 {
+    height:12vh;
+    background: skyblue;
+    margin:0px;
+}
+.section4 {
+    height:12vh;
+    background: turquoise;
+    margin:0px;
+}
+.section5 {
+    height:12vh;
+    background: aquamarine;
+    margin:0px;
+}
+.section6 {
+    height:12vh;
+    background: yellow;
+    margin:0px;
+}
+.div1{
+    background: darkblue;
+    width: 10vh;
+    height: 10vh;
+    margin-top:1.8vh;
+    margin-left:5vh;
+}
