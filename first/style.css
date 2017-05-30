@@ -1,0 +1,26 @@
+.body{
+    background: darkgray;
+}
+.top_section {
+    height:100px;
+    background: gray;
+    margin:0px;
+
+
+}
+.middle_section {
+
+    height: 600px;
+    background: white;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+.lower_section {
+    height:100px;
+    background: Black;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
